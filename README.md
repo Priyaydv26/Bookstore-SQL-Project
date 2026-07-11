@@ -117,14 +117,6 @@ The project contains three tables:
 
 ---
 
-# 🎥 Project Demo
-
-A short project demonstration video is included in this repository.
-
-📁 `project video.mp4`
-
----
-
 
 
 ---
