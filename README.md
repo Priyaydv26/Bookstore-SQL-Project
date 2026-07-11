@@ -101,7 +101,7 @@ The project contains three tables:
 
 ## 1️⃣ Most Frequently Ordered Book
 
-![Most Ordered Book](screenshots/Screenshot%202026-07-11%20131911(1).png)
+![Most Ordered Book](Screenshot%202026-07-11%20131911.png)
 
 ---
 
