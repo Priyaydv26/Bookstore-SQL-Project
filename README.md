@@ -97,23 +97,16 @@ The project contains three tables:
 
 ---
 
-# 📷 Project Screenshots
+## Project Screenshots
 
-## 1️⃣ Most Frequently Ordered Book
+### 1. Most Frequently Ordered Book
+![Most Frequently Ordered Book](Bookstore-SQL-Project/Screenshot%202026-07-11%20131911.png)
 
-![Most Ordered Book](Screenshot%202026-07-11%20131911.png)
+### 2. Top 3 Most Expensive Fantasy Books
+![Top 3 Fantasy Books](Bookstore-SQL-Project/Screenshot%202026-07-11%20132053.png)
 
----
-
-## 2️⃣ Top 3 Most Expensive Fantasy Books
-
-![Top Fantasy Books](screenshots/Screenshot%202026-07-11%20132053.png)
-
----
-
-## 3️⃣ Remaining Stock Analysis
-
-![Remaining Stock](screenshots/Screenshot%202026-07-11%20132204.png)
+### 3. Stock Remaining After Orders
+![Stock Remaining](Bookstore-SQL-Project/Screenshot%202026-07-11%20132204.png)
 
 ---
 
